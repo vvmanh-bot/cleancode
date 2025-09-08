@@ -1,3 +1,3 @@
-echo "Họ tên: Vi Văn Mạnh
+"Họ tên: Vi Văn Mạnh
 MSSV: DTC21H4802010123
 Lớp: KS CNTT K20A" 
